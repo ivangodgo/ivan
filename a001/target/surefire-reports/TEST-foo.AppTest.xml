@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.018" errors="0" skipped="0" tests="1" name="foo.AppTest">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre7\bin"/>
+    <property name="java.vm.version" value="24.80-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\project\kuangjia\maven\test001\a001"/>
+    <property name="java.runtime.version" value="1.7.0_80-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre7\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\ivan\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\project\eclipse2013workspace\2017\.metadata\.plugins\org.eclipse.m2e.core\launches\m2conf3290580406192239353.tmp"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/MyEclipse Professional/binary/com.sun.java.jdk.win32.x86_1.6.0.u43/jre/bin/client;C:/MyEclipse Professional/binary/com.sun.java.jdk.win32.x86_1.6.0.u43/jre/bin;C:/MyEclipse Professional/binary/com.sun.java.jdk.win32.x86_1.6.0.u43/jre/lib/i386;D:\delsoft\IBM\WebSphere MQ\Java\lib;D:\Program Files\VanDyke Software\Clients\;C:\ProgramData\Oracle\Java\javapath;C:\Ruby23\bin;C:\openssl\Perl\site\bin;C:\openssl\Perl\bin;D:\Program Files\AppCanStudioPersonalV3.2\HDK\emulator\mas\;C:\Program Files\SepanderSoft;C:\Program Files\NVIDIA Corporation\PhysX\Common;D:\oracle\product\10.2.0\db_1\bin;C:\Java\jdk1.6.0_05\bin;C:\windows\system32\;D:\apache-ant-1.9.0/bin;D:\Program Files\TortoiseSVN\bin;C:\Windows;C:\Windows\system32\wbem;C:\Python27;C:\openssl\Perl\bin;C:\openssl\Perl\;E:\VideoTeaching\【maven】\apache-maven-3.1.1-bin\apache-maven-3.1.1\bin;D:\delsoft\IBM\WebSphere MQ\bin;D:\delsoft\IBM\WebSphere MQ\tools\c\samples\bin;D:\project\kuangjia\github\gradle-2.14.1\bin;d:\Program Files\SSH Communications Security\SSH Secure Shell;D:\tools\nexus-2.14.3-02-bundle\nexus-2.14.3-02\bin;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\ivan"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="ivan"/>
+    <property name="java.class.path" value="/C:/MyEclipse Professional/plugins/org.eclipse.m2e.maven.runtime_1.2.0.20120903-0645/jars/plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files\Java\jre7"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -s C:\Java\maven\settings.xml deploy"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="1.7.0_80"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre7\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;D:\tools\java\javax.servlet-api-3.1.0-sources.jar"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\project\kuangjia\maven\test001\a001\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase time="0.002" classname="foo.AppTest" name="testApp"/>
+</testsuite>
